@@ -62,7 +62,7 @@
 
 <br/>
 
-## Prerequisite
+## prerequisite
 Not mandatory
 | Software | version | env |
 | ------ | ------ | ------ |
@@ -85,7 +85,7 @@ Not mandatory
 - [Creating CI Pipelines with Tekton](https://www.arthurkoziel.com/creating-ci-pipelines-with-tekton-part-1/)
 
 
-## _Helpful explanation_
+## _Helpful explanations_
 - [Tasks](https://tekton.dev/docs/pipelines/tasks/#overview)
 - [Events](https://tekton.dev/docs/pipelines/tasks/#defining-steps)
 - [Pipelines](https://tekton.dev/docs/pipelines/pipelines/)
