@@ -62,8 +62,8 @@
 
 <br/>
 
-## Prerequsits
-Not mandiroty
+## Prerequisite
+Not mandatory
 | Software | version | env |
 | ------ | ------ | ------ |
 | minikube | v1.11.0 | Linux |
@@ -85,7 +85,7 @@ Not mandiroty
 - [Creating CI Pipelines with Tekton](https://www.arthurkoziel.com/creating-ci-pipelines-with-tekton-part-1/)
 
 
-## _Helpful Explinations_
+## _Helpful explanation_
 - [Tasks](https://tekton.dev/docs/pipelines/tasks/#overview)
 - [Events](https://tekton.dev/docs/pipelines/tasks/#defining-steps)
 - [Pipelines](https://tekton.dev/docs/pipelines/pipelines/)
